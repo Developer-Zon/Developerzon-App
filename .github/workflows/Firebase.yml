@@ -1,0 +1,5 @@
+            - name: firebase-tools
+  # You may pin to the exact commit or the version.
+  # uses: joinflux/firebase-tools@c3fd73846f04d14ea794d991af113c3f6a00a796
+  uses: joinflux/firebase-tools@v10.7.0
+          
